@@ -1,4 +1,4 @@
-# hex2Ascii
+# hex2ascii
 
 This is a tool to convert Hex characters to Ascii
 
