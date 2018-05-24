@@ -1,14 +1,14 @@
 from setuptools import setup
 
 setup(
-    name='hex2Ascii',
+    name='hex2ascii',
     packages=[
-        'hex2Ascii'
+        'hex2ascii'
     ],
     version="0.0.1",
     entry_points={
         'console_scripts' : [
-            'hex2Ascii = hex2Ascii.hex2Ascii:main'
+            'hex2Ascii = hex2ascii.hex2ascii:main'
         ],
     },
 )
