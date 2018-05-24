@@ -14,7 +14,7 @@ pip for python2
 ### Installing
 To install, run the following commands
 
-```cd hex2ascii-tool```
+```cd hex2ascii```
 
 ```sudo pip install .```
 
