@@ -16,9 +16,8 @@ To install, run the following commands
 
 ```cd hex2Ascii-tool```
 
-```pip install .```
+```sudo pip install .```
 
-If there is a error saying permission denied, run the second command with root permission
 
 ### Uninstalling
 
