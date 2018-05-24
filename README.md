@@ -12,9 +12,17 @@ Python2
 pip for python2
 
 ### Installing
+To install, run the following commands
+
 ```cd hex2Ascii-tool```
 
-```sudo pip install .```
+```pip install .```
+
+If there is a error saying permission denied, run the second command with root permission
+
+### Uninstalling
+
+To uninstall, simply run ```pip uninstall hex2Ascii```
 
 ## Author
 * **Alloysius Goh** - *Initial work* 
