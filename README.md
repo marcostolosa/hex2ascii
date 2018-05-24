@@ -3,7 +3,7 @@
 This is a tool to convert Hex characters to Ascii
 
 ## Getting Started
-git clone https://gitlab.com/alloygoh/hex2ascii-tool.git
+git clone https://gitlab.com/alloygoh/hex2ascii.git
 
 ## Prerequisites
 
