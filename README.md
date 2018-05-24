@@ -11,8 +11,8 @@ Python2
 pip for python2
 
 ### Installing
-cd hex2Ascii-tool
-sudo pip install .
+```cd hex2Ascii-tool```
+```sudo pip install .```
 
 ##Author
 * **Alloysius Goh** - *Initial work* 
