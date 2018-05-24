@@ -16,5 +16,5 @@ pip for python2
 
 ```sudo pip install .```
 
-##Author
+## Author
 * **Alloysius Goh** - *Initial work* 
