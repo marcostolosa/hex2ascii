@@ -13,14 +13,15 @@ pip for python2
 
 ### Installing
 To install, run the following commands
+```
+$ cd hex2ascii
 
-```cd hex2ascii```
-
-```sudo pip install .```
+$ sudo pip install .
+```
 
 
 ### Usage
-hex2ascii [<hex character to convert>]
+hex2ascii [hex character to convert]
 
 ### Uninstalling
 
