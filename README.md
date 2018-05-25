@@ -20,7 +20,7 @@ To install, run the following commands
 
 
 ### Usage
-hex2ascii <hex character to convert>
+hex2ascii [<hex character to convert>]
 
 ### Uninstalling
 
