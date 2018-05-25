@@ -19,6 +19,9 @@ To install, run the following commands
 ```sudo pip install .```
 
 
+### Usage
+hex2ascii <hex character to convert>
+
 ### Uninstalling
 
 To uninstall, simply run ```pip uninstall hex2ascii```
